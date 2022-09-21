@@ -10,7 +10,7 @@ The Sparks Foundation offers one month Internship program to the students in dif
 4. Business Analytics.
 
 
-I am also enrolled in the **Data Science and Analytics Internship** offered by [The Sparks Foundation]() for the Duration of AUG 2020-SEP 2020. During this internship program, they assigned me 5 Tasks with a deadline before which we have to submit the task by hosting a **GitHub** Repository. Along with this repository we have to also post our task in the LinkedIn and Telegram group of the organisation.
+I am also enrolled in the **Data Science and Analytics Internship** offered by [The Sparks Foundation]() for the Duration of AUG 2022-SEP 2022. During this internship program, they assigned me 5 Tasks with a deadline before which we have to submit the task by hosting a **GitHub** Repository. Along with this repository we have to also post our task in the LinkedIn and Telegram group of the organisation.
 
 This internship program donot focus only on our technical skills infact it also help us to increase our social interaction and bonding by there tasks. The 5 tasks which were assigned to me was:
 1. LinkedIn Improvement Task.
